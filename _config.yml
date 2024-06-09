@@ -1,0 +1,14 @@
+title: "Mubaraq Olanrewaju - PhD Research"
+description: "Process-oriented modeling of ammonia emissions from grazed pastures."
+theme: "minimal-mistakes-jekyll"
+url: "https://mubaraqlanre.github.io"
+baseurl: ""
+github_username: mubaraqlanre
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
